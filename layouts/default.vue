@@ -15,6 +15,9 @@
         <v-btn text>
           <n-link to="/inspire">Inspire</n-link>
         </v-btn>
+        <v-btn text>
+          <n-link to="/weather-app">Weather App</n-link>
+        </v-btn>
       </v-toolbar-items>
 
       <template v-if="$vuetify.breakpoint.smAndUp">
