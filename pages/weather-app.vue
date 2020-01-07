@@ -2,7 +2,7 @@
   <v-container>
     <!-- <v-layout> -->
     <h1>Weather App</h1>
-    <!-- <v-flex>
+    <v-flex>
       <v-card>
         <v-card-text>Here is the card</v-card-text>
       </v-card>
@@ -15,7 +15,7 @@
           solo
         ></v-text-field>
       </v-form>
-    </v-col> -->
+    </v-col>
     <!-- </v-layout> -->
   </v-container>
 </template>
